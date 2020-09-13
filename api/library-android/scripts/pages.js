@@ -1,0 +1,1 @@
+var pages = [{'name': 'fun androidLibrary()', 'description':'com.github.lcdsmao.library.androidLibrary', 'location':'library-android/com.github.lcdsmao.library/android-library.html', 'searchKey':'androidLibrary'}]
